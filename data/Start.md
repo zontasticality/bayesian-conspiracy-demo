@@ -9,4 +9,4 @@ Here we sort fact from fiction using the power of collaboration! (Or, at least, 
 
 This project contains multiple walkthoughs for how nodes get created, debated, and calculated, we only have one for now, so click the following link to get started:
 
-[[linked:Are Cows Bad?]]
+[[linked:Did Covid-19 come from a lab or did it evolve naturally?]]

@@ -49,10 +49,10 @@ link_types:
   cites:
     stroke: simple
     color: "#000000"
-  similar:
+  similar_to:
     color: "#e1e1e1"
     stroke: simple
-  implies:
+  depends_on:
     color: "#24009B"
     stroke: simple
   evidence:
